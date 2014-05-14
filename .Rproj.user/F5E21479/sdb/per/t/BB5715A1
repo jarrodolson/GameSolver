@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1399717934445.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "BB5715A1",
+    "lastKnownWriteTime" : 7741240723082584096,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "out2",
+        "contentUrl" : "content?title=out2&file=728890f2d4574998b31a6c20cd5d530f.htm",
+        "displayedObservations" : "4",
+        "displayedVariables" : 2,
+        "totalObservations" : "4",
+        "variables" : "2"
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

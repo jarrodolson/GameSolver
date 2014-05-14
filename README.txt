@@ -1,0 +1,1 @@
+This repository contains code for solving simple game-theory models.
